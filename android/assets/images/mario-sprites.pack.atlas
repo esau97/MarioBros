@@ -1,0 +1,285 @@
+
+mario-sprites.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+powerup-0
+  rotate: false
+  xy: 1, 51
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+powerup-1
+  rotate: false
+  xy: 203, 51
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+powerup-3
+  rotate: false
+  xy: 405, 51
+  size: 200, 199
+  orig: 200, 199
+  offset: 0, 0
+  index: -1
+flag2
+  rotate: false
+  xy: 607, 110
+  size: 120, 140
+  orig: 120, 140
+  offset: 0, 0
+  index: -1
+tube-1
+  rotate: false
+  xy: 729, 150
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cloud-1
+  rotate: false
+  xy: 1, 1
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+cloud-2
+  rotate: false
+  xy: 607, 60
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+SuperMario-Jump
+  rotate: false
+  xy: 831, 186
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+SuperMario-Walk3
+  rotate: false
+  xy: 865, 186
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+SuperMario
+  rotate: false
+  xy: 899, 186
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+SuperMario-Walk1
+  rotate: false
+  xy: 933, 190
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+SuperMario-Walk2
+  rotate: false
+  xy: 967, 188
+  size: 28, 62
+  orig: 28, 62
+  offset: 0, 0
+  index: -1
+Mario
+  rotate: false
+  xy: 997, 218
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+button-left
+  rotate: false
+  xy: 99, 9
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+button-right
+  rotate: false
+  xy: 673, 68
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+button-up
+  rotate: false
+  xy: 141, 9
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Mario-Jump
+  rotate: false
+  xy: 729, 116
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+brick-2
+  rotate: false
+  xy: 831, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+brick-coin-0
+  rotate: false
+  xy: 183, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+brick-coin-1
+  rotate: false
+  xy: 765, 116
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+brick-coin-tk
+  rotate: false
+  xy: 865, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bush-1
+  rotate: false
+  xy: 217, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goomba-1
+  rotate: false
+  xy: 899, 152
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+goomba-2
+  rotate: false
+  xy: 933, 156
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+ground-1
+  rotate: false
+  xy: 251, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Mario-Walk1
+  rotate: false
+  xy: 285, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sprite-1
+  rotate: false
+  xy: 319, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tube-2
+  rotate: false
+  xy: 353, 17
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+Mario-Dead
+  rotate: false
+  xy: 799, 120
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+Mario-Walk3
+  rotate: false
+  xy: 831, 120
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+Mario-Walk2
+  rotate: false
+  xy: 387, 17
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+mushroom
+  rotate: false
+  xy: 997, 192
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+SuperMario-duck
+  rotate: false
+  xy: 967, 164
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+turtle-1
+  rotate: false
+  xy: 861, 126
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+coin-1
+  rotate: false
+  xy: 413, 25
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+turtle-2
+  rotate: false
+  xy: 879, 127
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+turtle-3
+  rotate: false
+  xy: 430, 32
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+turtle-4
+  rotate: false
+  xy: 897, 133
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+goomba-death
+  rotate: false
+  xy: 448, 33
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sprite-0
+  rotate: false
+  xy: 915, 137
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
